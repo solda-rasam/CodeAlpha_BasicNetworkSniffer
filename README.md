@@ -47,8 +47,8 @@ Before running the tool, ensure your system meets the following requirements:
 
  2. **Install Required Libraries:**
    
-bash
-   pip install scapy
+pip install scapy
+
    
   
 ## 💻 Usage
