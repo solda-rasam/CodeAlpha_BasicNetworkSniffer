@@ -33,9 +33,6 @@ Before running the tool, ensure your system meets the following requirements:
 3. **Packet Capture Driver (Windows Only):** - Windows requires a packet sniffing driver to capture Layer 2/3 traffic. Please download and install **[Npcap](https://npcap.com/)**.
    - *Crucial:* During installation, check the box that says `"Install Npcap with WinPcap compatibility mode"`.
 
-## 🚀 Installation & Setup
-
-1. **Clone the Repository:**
    
 ## 🚀 Installation & Setup
 
