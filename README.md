@@ -11,7 +11,6 @@ A lightweight and efficient Command-Line Interface (CLI) network packet sniffer 
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ---
 
