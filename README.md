@@ -81,5 +81,3 @@ sudo python3 sniffer.py
 ## ⚠️ Troubleshooting
  * **RuntimeError: Winpcap is not installed:** This means Scapy cannot find your network driver. Install **Npcap** and make sure you enable WinPcap compatibility mode during the setup, then restart your system.
  * **PermissionError / Access Denied:** Ensure you are running your terminal/IDE with **Run as Administrator** (Windows) or using sudo (Linux).
-```
-
