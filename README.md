@@ -54,7 +54,7 @@ pip install scapy
 ## 💻 Usage
 ### Windows (Command Prompt / PowerShell)
 Open your terminal **as an Administrator** and execute:
-bash
+```bash
 python sniffer.py
 
 ### Linux / macOS
