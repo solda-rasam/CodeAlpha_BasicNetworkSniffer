@@ -38,7 +38,7 @@ Before running the tool, ensure your system meets the following requirements:
 1. **Clone the Repository:**
    
 bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_BasicNetworkSniffer.git](https://github.com/YOUR_GITHUB_USERNAME/CodeAlpha_BasicNetwoInstall Required Libraries:BasicNetworkSniffer
+   git clone [https://github.com/solda-rasam/CodeAlpha_BasicNetworkSniffer.git](https://github.com/solda-rasam/CodeAlpha_BasicNetwoInstall Required Libraries:BasicNetworkSniffer
 
  2. **Install Required Libraries:**
    
