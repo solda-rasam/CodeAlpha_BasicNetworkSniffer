@@ -58,14 +58,16 @@ bash
 sudo python3 sniffer.py
 
 ### Expected Output Format
-text
+
 [*] Starting Basic Network Sniffer...
 
 [*] Listening for network traffic... (Press Ctrl+C to stop)
 
 ==================================================
 [+] New Packet: 192.168.1.15 -> 93.184.216.34 | Protocol: TCP
+
     [Layer 4] TCP Port: 53241 -> 80
+    
     [Payload] (First 100 bytes): b'GET / HTTP/1.1\r\nHost: example.com\r\n...'
 
 `
