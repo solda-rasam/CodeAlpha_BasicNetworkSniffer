@@ -60,6 +60,7 @@ sudo python3 sniffer.py
 ### Expected Output Format
 text
 [*] Starting Basic Network Sniffer...
+
 [*] Listening for network traffic... (Press Ctrl+C to stop)
 
 ==================================================
