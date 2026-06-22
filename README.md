@@ -1,7 +1,7 @@
 
-# CodeAlpha - Basic Network Sniffer
+#  Basic Network Sniffer
 
-A lightweight and efficient Command-Line Interface (CLI) network packet sniffer developed in Python using the **Scapy** library. This project was built as part of the Cyber Security Internship program at **CodeAlpha**.
+A lightweight and efficient Command-Line Interface (CLI) network packet sniffer developed in Python using the **Scapy** library. 
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -40,8 +40,8 @@ Before running the tool, ensure your system meets the following requirements:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/solda-rasam/CodeAlpha_BasicNetworkSniffer.git
-cd CodeAlpha_BasicNetworkSniffer
+git clone https://github.com/solda-rasam/BasicNetworkSniffer.git
+cd BasicNetworkSniffer
 
 ```
  2. **Install Required Libraries:**
